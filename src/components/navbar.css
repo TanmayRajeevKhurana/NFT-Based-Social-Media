@@ -1,0 +1,48 @@
+.navbar {
+    background-color: #333;
+  }
+  
+  .navbar-brand {
+    font-size:25px;
+    font: weight 700;
+    text-transform: uppercase;
+    padding: 2px 0px 0px;
+    letter-spacing: 9px;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    background-clip: text;
+    -webkit-text-fill-color:transparent;
+    color: white;
+  }
+  .cur-po{
+    cursor: pointer;
+  }
+  
+  .nav-link {
+    font-size: 16px;
+    color: white;
+  }
+  
+  .form-control {
+    border: none;
+    background-color: white;
+    color: white;
+  }
+  
+  .btn-outline-success {
+    color: white;
+    border-color: #f50404;
+    
+  }
+  .btn-outline-success:hover {
+    color: #f50404;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    background-clip: text;
+    -webkit-text-fill-color:transparent;
+    border-color: #f50404;
+   
+   
+  }
+  
+  
